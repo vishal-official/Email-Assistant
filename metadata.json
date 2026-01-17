@@ -1,0 +1,6 @@
+
+{
+  "name": "Personal AI Email Assistant",
+  "description": "An autonomous AI agent that manages your Gmail, Calendar, and Drive through natural language. It generates morning briefings, identifies urgent tasks, and coordinates meeting schedules using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
